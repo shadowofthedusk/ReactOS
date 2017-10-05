@@ -1,0 +1,6 @@
+*.o
+*.sym
+*.exe
+*.dsp
+*.dsw
+*.map

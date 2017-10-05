@@ -1,0 +1,7 @@
+*.coff
+*.dll
+*.d
+*.o
+*.sym
+*.map
+*.tmp

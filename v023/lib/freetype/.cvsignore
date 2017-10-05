@@ -1,0 +1,7 @@
+nul
+*.d
+*.o
+*.dll
+*.map
+*.sym
+doxy-doc

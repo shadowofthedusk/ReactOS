@@ -1,0 +1,8 @@
+Makefile.ros
+*.coff
+*.dll
+*.o
+*.d
+*.sym
+*.map
+*.spec.def
