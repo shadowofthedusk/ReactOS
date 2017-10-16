@@ -1,0 +1,1 @@
+First add in project>build the line of loader/dos/makefile
